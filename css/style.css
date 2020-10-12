@@ -1,0 +1,40 @@
+/*https://colorhunt.co/palette/213441*/
+
+body {
+  margin: 0px;
+}
+
+.top-section {
+  background-color: indigo;
+  background-color: #7579e7;
+  
+  border-style: solid;
+  border-color: blue;
+  border-width: 20px;
+
+  width: 200px;
+  height: 200px;
+}
+
+.middle-section {
+  background-color: red;
+  margin-left: 220px;
+
+  border-style: solid;
+  border-color: rgb(0, 204, 255);
+  border-width: 20px;
+
+  width: 200px;
+  height: 200px;
+}
+.bottom-section {
+  background-color: green;
+  margin-left: 440px;
+
+  border-style: solid;
+  border-color: rgb(195, 255, 0);
+  border-width: 20px;
+
+  width: 200px;
+  height: 200px;
+}
