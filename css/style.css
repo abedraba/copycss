@@ -5,25 +5,29 @@ body {
 }
 
 .top-section {
-  background-color: lawngreen;
+  background-color: red;
   position: relative ;
   left: 400px;
+  
   width: 200px;
   height:200px;
+  display: inline-block;  
 }
 
 .middle-section {
-  background-color: indigo;
+  background-color: green;
   position: relative;
   bottom: 200px;
   width: 200px;
   height: 200px;
+  display: inline-block;
 }
 .bottom-section {
-  background-color: red;
+  background-color: yellow;
   position: relative;
   bottom: 400px;
   left: 200px;
   width: 200px;
   height:200px;
+  display: inline-block;
 }
