@@ -5,36 +5,25 @@ body {
 }
 
 .top-section {
-  background-color: indigo;
-  background-color: #7579e7;
-  
-  border-style: solid;
-  border-color: blue;
-  border-width: 20px;
-
+  background-color: lawngreen;
+  position: relative ;
+  left: 400px;
   width: 200px;
-  height: 200px;
+  height:200px;
 }
 
 .middle-section {
-  background-color: red;
-  margin-left: 240.0px;
-
-  border-style: solid;
-  border-color: rgb(0, 204, 255);
-  border-width: 20px;
-
+  background-color: indigo;
+  position: relative;
+  bottom: 200px;
   width: 200px;
   height: 200px;
 }
 .bottom-section {
-  background-color: green;
-  margin-left: 480px;
-
-  border-style: solid;
-  border-color: rgb(195, 255, 0);
-  border-width: 20px;
-
+  background-color: red;
+  position: relative;
+  bottom: 400px;
+  left: 200px;
   width: 200px;
-  height: 200px;
+  height:200px;
 }
