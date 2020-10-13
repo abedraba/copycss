@@ -18,7 +18,7 @@ body {
 
 .middle-section {
   background-color: red;
-  margin-left: 22.0px;
+  margin-left: 240.0px;
 
   border-style: solid;
   border-color: rgb(0, 204, 255);
@@ -29,7 +29,7 @@ body {
 }
 .bottom-section {
   background-color: green;
-  margin-left: 440px;
+  margin-left: 480px;
 
   border-style: solid;
   border-color: rgb(195, 255, 0);
